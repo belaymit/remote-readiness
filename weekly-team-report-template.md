@@ -6,7 +6,7 @@
     - ***Yesterday**: Fixed login bug*
     - ✱ ***Today**: Writing unit tests* ✱
     - ⛔ ***Blockers**: Waiting for API keys*
-- **Include PR links and key contributions** - Example: [PR #156: User Dashboard](https://github.com/project/pull/156)
+- **Include PR links and key contributions** - Example: [PR #156: User Dashboard](https://github.com/project/pull/156https://github.com/belaymit/remote-readiness/blob/master/weekly-team-report-template.md)
 - **Keep updates concise and technical** - Example: *Implemented OAuth2 authentication* not *Worked on login stuff*
 - **This may be shared with clients, so maintain professional tone** - Example: Use *API integration delayed due to configuration issues* not *API is broken*
 
@@ -18,19 +18,19 @@
 - ✅ **Yesterday**: Worked on Playwright MCP automation and API testing with Postman/Thunder Client
 - 🛠 **Today**: API integration for Eagle project - connecting React/TypeScript frontend with backend services
 - ⛔ **Blockers**: Strapi authorization issues blocking Eagle project API integration - key changes needed
-- 🔗 **PRs/Links**: [PR #123: Playwright MCP Setup](https://github.com/project/pull/123)
+- 🔗 **PRs/Links**: [PR #123: Playwright MCP Setup](https://github.com/belaymit/remote-readiness/blob/master/weekly-team-report-template.md)
 
 ### Alex Chen - Frontend Developer
 - ✅ **Yesterday**: Implemented responsive customer dashboard with TypeScript, integrated Chart.js for analytics
 - 🛠 **Today**: Building user onboarding flow components, debugging CSS grid layout issues
 - ⛔ **Blockers**: Waiting for design approval on color scheme from UX team
-- 🔗 **PRs/Links**: [PR #127: Customer Dashboard](https://github.com/project/pull/127)
+- 🔗 **PRs/Links**: [PR #127: Customer Dashboard](https://github.com/belaymit/remote-readiness/blob/master/weekly-team-report-template.md)
 
 ### Ekram K. - DevOps Engineer
 - ✅ **Yesterday**: Set up CI/CD pipeline with GitHub Actions, configured Docker containers for staging
 - 🛠 **Today**: Writing Kubernetes deployment scripts, monitoring production database performance
 - ⛔ **Blockers**: AWS IAM permissions needed for S3 bucket access
-- 🔗 **PRs/Links**: [PR #128: CI/CD Pipeline](https://github.com/project/pull/128)
+- 🔗 **PRs/Links**: [PR #128: CI/CD Pipeline](https://github.com/belaymit/remote-readiness/blob/master/weekly-team-report-template.md)
 
 ---
 
@@ -68,11 +68,11 @@
 
 ## Key Links
 **Example format: Add actual project URLs and links team uses regularly**
-- **Repository**: [Project Repo](https://github.com/project)
-- **Staging**: [staging.project.com](https://staging.project.com)
-- **Documentation**: [Project Docs](https://docs.project.com)
+- **Repository**: [Project Repo](https://github.com/belaymit/remote-readiness/blob/master/weekly-team-report-template.md)
+- **Staging**: [staging.project.com](https://github.com/belaymit/remote-readiness/blob/master/weekly-team-report-template.md)
+- **Documentation**: [Project Docs](https://github.com/belaymit/remote-readiness/blob/master/weekly-team-report-template.md)
 - **Slack Channel**: #eagle-project-dev
-- **Design System**: [Figma Components](https://figma.com/project)
+- **Design System**: [Figma Components](https://github.com/belaymit/remote-readiness/blob/master/weekly-team-report-template.md)
 
 ---
 
@@ -82,13 +82,13 @@
 - ✅ **Yesterday**: Implemented user authentication endpoints, fixed database connection pooling
 - 🛠 **Today**: Writing unit tests for auth service, debugging Strapi configuration
 - ⛔ **Blockers**: Waiting for OAuth provider API keys from client
-- 🔗 **PRs/Links**: [PR #124: Auth Endpoints](https://github.com/project/pull/124)
+- 🔗 **PRs/Links**: [PR #124: Auth Endpoints](https://github.com/belaymit/remote-readiness/blob/master/weekly-team-report-template.md)
 
 ### Sarah Johnson - Frontend Developer
 - ✅ **Yesterday**: Built responsive navigation component, updated design system
 - 🛠 **Today**: Integrating with new auth endpoints, mobile layout fixes
 - ⛔ **Blockers**: None
-- 🔗 **PRs/Links**: [PR #125: Navigation Component](https://github.com/project/pull/125)
+- 🔗 **PRs/Links**: [PR #125: Navigation Component](https://github.com/belaymit/remote-readiness/blob/master/weekly-team-report-template.md)
 
 ---
 
