@@ -1,4 +1,8 @@
-**Belay_report_template - EAT**
+**Submitted by**: Belay Birhanu
+**Role**: Full-Stack Developer  
+**Timezone**: EAT  
+**Date**: June 25, 2025
+**Assignment**: International Readiness Program Pre-Evaluation Task
 
 # Weekly Technical Team Report
 
