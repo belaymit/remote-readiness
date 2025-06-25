@@ -3,7 +3,7 @@
 **Submitted by**: Belay  
 **Role**: Full-Stack Developer  
 **Timezone**: EAT  
-**Date**: December 19, 2024  
+**Date**: June 25, 2025 
 **Assignment**: International Readiness Program Pre-Evaluation Task
 
 ---
